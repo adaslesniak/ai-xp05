@@ -9,3 +9,5 @@ So idea is to create simple algorithm that subsamples features in much more unif
 ## Results:
 
 Yes, there can be created simple algorithm to create subsamples with uniform distribution of features.
+
+More datails: 
