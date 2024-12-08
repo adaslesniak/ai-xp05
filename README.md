@@ -13,3 +13,6 @@ Yes, there can be created simple algorithm to create subsamples with uniform dis
 ![Alt text](uniform_subsampling.png)
 
 More datails: 
+
+## Question:
+After fixing obvious bug that made Random Subspace invalid results are counterintuitve. They make no sense. Random bias is improving predictions. Why... is it something in how I adjust for bias that makes generation of predictors less diverse?
